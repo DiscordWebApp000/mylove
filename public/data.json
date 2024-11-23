@@ -1,0 +1,129 @@
+[
+{
+  "url": "ahmet",
+  "password": "12345",
+  "images": [
+    {
+      "imagePath": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2020/03/05/5e635e26-587a-11ea-b438-8452af50d521_image_hires_151135.JPG?itok=5TqsK0Jq&v=1583392305",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2020/03/05/5e635e26-587a-11ea-b438-8452af50d521_image_hires_151135.JPG?itok=5TqsK0Jq&v=1583392305",
+      "content": "BU SANA HASTA"
+    },
+    {
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSoWrssDi8xBXnr9xSZmFTR3vlQgUx-OxQWQ&s",
+      "content": "SENİN KADAR GÜZEL BİR ŞEY BEKLİYOR"
+    },
+    {
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHWA9JSTxStVopszXkZF0p47Ao2eACIE1Kw&s",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeAelWTlddVgJyEdWjZvOlnIrFxa8GHLBJw&s",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://people.com/thmb/tFvCAYyJ0qREGupqlljzvd_QTdw=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/no-time-to-die-1-2000-0892ec328cf04d98abd4c7cf18483821.jpg",
+      "content": "Seninle her anım, bir rüyanın gerçeğe dönüşmüş hali gibi. Gözlerine baktığımda, kalbim hızla atıyor ve dünyanın geri kalanı sanki duruyor. "
+    },
+    {
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphxKSym8lqvbOkJOq7KQHJp7xuszkwG9RJQ&s",
+      "content": "Seninle her anım, bir rüyanın gerçeğe dönüşmüş hali gibi. Gözlerine baktığımda, kalbim hızla atıyor ve dünyanın geri kalanı sanki duruyor."
+    },
+    {
+      "imagePath": "https://tr.web.img4.acsta.net/pictures/16/05/17/12/17/360795.jpg",
+      "content": "Kalbimdeki en özel yerdesin, gülüşün güneşim, sevgim ise sonsuz. Seninle her anım, hayatımın en güzel hediyesi."
+    },
+    {
+      "imagePath": "https://hips.hearstapps.com/hmg-prod/images/ana-de-armas-1626771511.jpg",
+      "content": "lorem ipsum"
+    }
+  ],
+  "videos": [
+    {
+      "videoPath": "/images/contents/video1.mp4",
+      "content": "Gözlerin, masmavi bir deniz gibidir benim için.Her bakışında kaybolurum, derinliklerine dalıp giderim.Sana olan sevgim, o denizin sonsuzluğu gibidir.Seninle geçirdiğim her an, bir şiirin mısralarında saklıdır."
+    },
+    {
+      "videoPath": "/images/contents/video2.mp4",
+      "content": "Gözlerin, masmavi bir deniz gibidir benim için.Her bakışında kaybolurum, derinliklerine dalıp giderim.Sana olan sevgim, o denizin sonsuzluğu gibidir.Seninle geçirdiğim her an, bir şiirin mısralarında saklıdır."
+    }
+  ],
+  "musics": [
+    {
+      "title": "Güneşi Beklerken",
+      "artist": "Mor ve Ötesi",
+      "musicPath": "/musics/GunesiBeklerken.mp3",
+      "imagePath": "https://i.scdn.co/image/ab67616d0000b2737da7e8530ec24f3755115ca0"
+    },
+    {
+      "title": "Olmazsan Olmaz",
+      "artist": "Güliz Ayla",
+      "musicPath": "/musics/OlmazsanOlmaz.mp3",
+      "imagePath": "https://i.scdn.co/image/ab67616d00001e029aabc37179b652be1d12b0ec"
+    }
+  ]
+},
+{
+  "url": "ayse",
+  "password": "12345",
+  "images": [
+    {
+      "imagePath": "https://www.parismatch.com/lmnr/var/pm/public/media/image/Angelina-Jolie_0.jpg?VersionId=WM_1TbPgJukBzHJZ9bSixs3kPM9qTUzg",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://i.guim.co.uk/img/media/f6e64e4268c4b039105fe82b2dbb33d38231c29e/124_695_4955_2973/master/4955.jpg?width=1200&quality=85&auto=format&fit=max&s=cf1cce2ab65f0379497a24b5b75dc7d7",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://imgcdn.stablediffusionweb.com/2024/5/5/88a37354-71ab-4d42-897c-83e6a8ee50aa.jpg",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://www.instyle.com/thmb/8EUrjhKfI-sEYYd_KWc-ccsbxUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2005-angelina-jolie-567_0-8426e5132c3f4be89d29965b3eaa54af.jpg",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGJmHgbK_GM3nkW_VTgz467_Btn6ajnJyeg&s",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://www.parismatch.com/lmnr/var/pm/public/media/image/Angelina-Jolie_0.jpg?VersionId=WM_1TbPgJukBzHJZ9bSixs3kPM9qTUzg",
+      "content": "lorem ipsum"
+    },
+    {
+      "imagePath": "https://c4.wallpaperflare.com/wallpaper/356/531/581/angelina-jolie-8-wallpaper-preview.jpg",
+      "content": "lorem ipsum"
+    }
+  ],
+  "videos": [
+    {
+      "videoPath": "/images/contents/video1.mp4",
+      "content": "lorem ipsum"
+    },
+    {
+      "videoPath": "/images/contents/video2.mp4",
+      "content": "lorem ipsum"
+    }
+  ],
+  "musics": [
+    {
+      "title": "Song 3",
+      "artist": "Artist C",
+      "musicPath": "/musics/song3.mp3",
+      "duration": "5:00",
+      "imagePath": "https://example.com/image3.jpg"
+    },
+    {
+      "title": "Song 4",
+      "artist": "Artist D",
+      "musicPath": "/musics/song4.mp3",
+      "duration": "3:25",
+      "imagePath": "https://example.com/image4.jpg"
+    }
+  ]
+}
+]
+
